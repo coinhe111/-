@@ -1,0 +1,3 @@
+这大概是每个学习计算机相关专业的中国大学生都会写的一个课程项目，我以前交上去的课程作业是C语言版的，最近自学java又写了一个java版的。
+比较值得一提的是，在这次写的过程中我格外注意程序的健壮性，这算是一个小小的进步吧。主要是用了try-catch(InputMismatchException e)来规避了int型变量被莫名输入string的情况。
+欢迎访问我的博客：https://morizen-studio.netlify.app/
